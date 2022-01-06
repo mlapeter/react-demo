@@ -1,0 +1,12 @@
+{
+  "name": "codesandboxer-example",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
